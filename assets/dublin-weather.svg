@@ -82,6 +82,6 @@
   <g filter="url(#shadow)">
     <rect x="56" y="60" width="1088" height="200" rx="18" class="card"/>
     <text x="96" y="135" class="title">Dublin Weather</text>
-    <text x="96" y="195" class="sub">Dublin: ☀️  +57°F | Wind ↖2mph • Updated 2026-08-26 21:32 UTC</text>
+    <text x="96" y="195" class="sub">Dublin: 🌧️  +59°F | Wind ↓6mph • Updated 2026-08-27 18:07 UTC</text>
   </g>
 </svg>
